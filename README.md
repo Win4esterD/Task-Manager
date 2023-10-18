@@ -1,6 +1,6 @@
 # Deployment link
 
-https://task-manager-snowy-ten.vercel.app/
+https://task-manager-2p7rlv5wp-win4esterd.vercel.app/
 
 # Getting Started with Create React App
 
